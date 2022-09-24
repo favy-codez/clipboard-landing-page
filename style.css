@@ -5,6 +5,10 @@
     font-family: 'Bai Jamjuree', sans-serif;
 }
 
+html, body{
+    overflow-x: hidden;
+}
+
 /* colors */
 :root{
     --Cyan: hsl(171, 66%, 44%);
@@ -240,6 +244,7 @@ footer{
 
 #footer-img{
     width: 4%;
+    height: 35%;
 }
 
 footer p{
@@ -260,4 +265,49 @@ footer p{
 .footer-logo{
     display: flex;
     gap: 1rem;
+}
+
+/* media query */
+@media screen and (max-width:992px){
+    .section-three img{
+        margin-left: -1rem;
+        width: 45%;
+        height: 60%;
+    }
+    .section-three{
+        gap: 7rem;
+    }
+    .section-three-B{
+        margin-top: 0;
+    }
+    .section-six{
+        padding: 0 2rem;
+    }
+    .section-three p{
+        width: 70%;
+    }
+    .section-six{
+        grid-column-gap: 0px;
+    }
+}
+@media screen and (max-width:768px){
+    .section-two{
+        margin: 0;
+    }
+    .section-two p{
+        width: 80%;
+    }
+    .section-three p{
+        margin: 7px 0 10px 0;
+    }
+    footer{
+        padding: 1rem 8rem;
+        margin: 3rem 0 0 0;
+    }
+}
+@media screen and (max-width:576px){
+
+}
+@media screen and (max-width:375px){
+
 }
