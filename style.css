@@ -252,6 +252,12 @@ footer p{
     gap: 1rem;
 }
 
+.footer-logo img{
+    width: 15%;
+    height: 35%;
+}
+
 .footer-logo{
-    
+    display: flex;
+    gap: 1rem;
 }
