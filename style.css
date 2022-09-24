@@ -159,10 +159,10 @@ body{
 }
 
 .section-five-B {
-    display: flex;
-    gap: 2rem;
-    padding: 0 4rem;
-    margin: 3rem auto 7rem auto;
+    display: grid;
+    place-content: center;
+    grid-template-columns: auto auto auto auto;
+    margin: 3rem 0 7rem 0;
 }
 
 .section-five-B p{
@@ -171,13 +171,44 @@ body{
 }
 
 .super-one{
-    background-color: blue;
     text-align: center;
-    padding: 10px 5rem;
-    margin: 3rem 0 5px 0;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.super-two{
+    text-align: center;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.super-three{
+    text-align: center;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.section-five-text h4{
+    color: var(--Grayish-Blue);
+    font-size: 1.2rem;
+}
+
+.section-five-text p{
+    color: var(--GrayishBlue);
+    font-size: 10px;
 }
 
 /* section six */
+.section-six{
+    display: grid;
+    place-content: center;
+    grid-template-columns: auto auto auto auto auto;
+    grid-column-gap: 3rem;
+}
+
+.section-six imd{
+    width: 20px;
+}
 
 /* section seven */
 
