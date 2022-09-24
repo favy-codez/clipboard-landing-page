@@ -5,12 +5,11 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Table of contents
 
-  - [Links](#links)
+  - [Link](#links)
   - [Author](#Author)
 
-### Links
+### Link
 
-- Solution URL: [https://favours-clipboard-landing-page.netlify.app/]
 - Live Site URL: [https://favours-clipboard-landing-page.netlify.app/]
 
 ## Author
