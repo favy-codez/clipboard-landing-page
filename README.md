@@ -10,11 +10,11 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://favours-clipboard-landing-page.netlify.app/)
-- Live Site URL: [Add live site URL here](https://favours-clipboard-landing-page.netlify.app/)
+- Solution URL: [https://favours-clipboard-landing-page.netlify.app/]
+- Live Site URL: [https://favours-clipboard-landing-page.netlify.app/]
 
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/phavourshelby)
+- Twitter - [@phavourshelby](https://www.twitter.com)
 
