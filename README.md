@@ -15,6 +15,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@favy-codez](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@phavourshelby](https://www.twitter.com)
 
