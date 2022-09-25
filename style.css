@@ -415,5 +415,38 @@ footer p{
         display: block;
         margin: 20px auto;
     }
+    .section-six img{
+        width: 100%;
+    }
+    .section-six{
+        padding: 0 1rem;
+        grid-template-columns: auto ;
+        grid-gap: 4rem;
+    }
+    .section-seven{
+        padding: 0 1rem;
+        text-align: center;
+    }
+    .section-seven h2{
+        font-size: 1.9rem;
+    }
+    .section-seven p{
+        width: 100%;
+        font-size: 18px;
+    }
+    footer{
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 0;
+        gap: 1rem;
+        text-align: center;
+        font-size: 18px;
+    }
+    #footer-img{
+        width: 22%;
+    }
+    .footer-logo{
+        gap: 2rem;
+    }
 }
 }
