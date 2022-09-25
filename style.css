@@ -256,6 +256,10 @@ footer p{
     color: var(--GrayishBlue);
 }
 
+footer p:hover, footer-logo img:hover{
+    color:#bac6d3
+}
+
 .footer-one, .footer-two {
     display: flex;
     flex-direction: column;
