@@ -345,5 +345,66 @@ footer p{
         padding: 1rem 2rem;
     }
 @media screen and (max-width:375px){
-
+    .section-one{
+        padding: 8rem 0 6rem 0;
+    }
+    .section-one h2{
+        font-size: 2rem;
+    }
+    .section-one p{
+        width: 100%;
+    }
+    .section-one h2{
+        font-size: 2.2rem;
+    }
+    .download-buttons{
+        flex-direction: column;
+    }
+    .download-one, .download-two{
+        padding: 15px 70px;
+        font-size: 1.5rem;
+    }
+    .section-two h3{
+        font-size: 2rem;
+    }
+    .section-three{
+        gap: 4rem;
+    }
+    .section-five h3{
+        font-size: 2rem;
+    }
+    .section-five p{
+        font-size: 18px;
+    }
+    .section-three img{
+        width: 70%;
+    }
+    .section-four{
+        padding: 0 15px;
+    }
+    .section-four h2{
+        font-size: 2rem;
+    }
+    .section-four p{
+        font-size: 18px;
+    }
+    .section-four img{
+        width: 80%;
+    }
+    .section-five-B{
+        margin: 2rem 0 5rem 0;
+    }
+    .section-five-text h4{
+        font-size: 1.5rem;
+        margin-bottom: 12px;
+    }
+    .section-five-B p{
+        line-height: 18px;
+    }
+    .super-one, .super-two, .super-three{
+        max-width: 400px;
+        display: grid;
+        place-content: center;
+    }
+}
 }
