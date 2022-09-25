@@ -60,6 +60,10 @@ html, body{
     font-size: 12px;
 }
 
+.download-one:hover{
+    background-color: var(--Blue);
+}
+
 .download-two{
     color: #fff;
     padding: 12px 26px;
@@ -67,6 +71,10 @@ html, body{
     border: none;
     background-color: var(--Blue);
     font-size: 12px;
+}
+
+.download-two:hover{
+    background-color: var(--Cyan);
 }
 
 /* section two */
