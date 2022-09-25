@@ -442,8 +442,11 @@ footer p:hover, footer-logo img:hover{
     .section-seven h2{
         font-size: 1.9rem;
     }
-    .section-seven .download-buttons{
-        font-size: 12px;
+    .section-seven .download-one{
+        font-size: 15px;
+    }
+    .section-seven .download-two{
+        font-size: 15px;
     }
     .section-seven p{
         width: 100%;
